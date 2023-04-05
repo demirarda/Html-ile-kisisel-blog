@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Hakkımda</title>
+    </head>
+    <body>
+        <center>
+        <table  width="740px">
+            <tr>
+                <td>
+                    <a href="index.html" ><img src="images/logo.png"></a>
+                </td>
+                <td>
+                    <a href="index.html"><img src="images/Anasayfa-Turuncu.png"></a>
+                    <a href="hakkimda.html"><img src="images/hakk%C4%B1mda-siyah.png"></a>
+                    <a href="iletisim.html"><img src="images/ileti%C5%9Fim-turuncu.png"></a>
+                </td>
+            </tr>
+            <tr>
+                <td width="400px"><img src="images/1667915504223.jpeg"></td>
+                <td>
+                    <h1>HAKKIMDA</h1>
+                    <p>Ben Arda Demir, 25 Nisan 2000 Elazığ doğumluyum. Liseyi Mehmet Koloğlu Anadolu Lisesinde okudum, üniversite hayatıma Fırat Üniversitesi Yazılım Mühendisliğinde devam etmekteyim.</p>
+                    <a href="iletisim.html"><img src="images/banaUlas-siyah.png"></a>
+                </td>
+            </tr>
+            <tr>
+                <td>Copyright &copy;; 2023</td>
+                <td>
+                    <a href="https://www.linkedin.com/in/demirarda1/"><img src="images/linkedin.png"</a>
+                    <a href="https://github.com/demirarda"><img src="images/git.png"</a>
+                </td>
+            </tr>
+        </table>
+            </center>
+    </body>
+</html>
